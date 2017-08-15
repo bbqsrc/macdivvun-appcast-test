@@ -6,7 +6,7 @@
     <description xml:lang="en">MacDivvun service, yeah.</description>
     <item>
       <title xml:lang="en">MacDivvun 0.1.0</title>
-      <sparkle:releaseNotesLink xml:lang="en">https://rawgit.com/bbqsrc/macdivvun-appcast-test/master/release.txt</sparkle:releaseNotesLink>
+      <description>Test description.</description>
       <pubDate>Tue, 15 Aug 2017 14:12:38 +0000</pubDate>
       <enclosure url="https://rawgit.com/bbqsrc/macdivvun-appcast-test/master/MacDivvun-0.1.0.dmg" length="3434901" type="application/octet-stream" sparkle:version="0.1.0" sparkle:dsaSignature="MCwCFBjAF0krrmmRaWcLdQCfVfwkHcJWAhRyCxWfMZ8Ge7qBeqFPtUzEa0R29A=="/>
     </item>
