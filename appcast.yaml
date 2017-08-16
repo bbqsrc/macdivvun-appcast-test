@@ -1,0 +1,19 @@
+language: en
+baseUrl: https://rawgit.com/bbqsrc/macdivvun-appcast-test/master
+title:
+  en: MacDivvun Service
+  nb: MacDivvun Service NB
+description:
+  en: MacDivvun service, yeah.
+  nb: ÅÅÅÅÅÅÅÅÅÅÅHHHHH
+items:
+  - title:
+      en: MacDivvun 0.1.0
+    releaseNotesLink:
+      en: https://rawgit.com/bbqsrc/macdivvun-appcast-test/master/release.txt
+      nb: https://rawgit.com/bbqsrc/macdivvun-appcast-test/master/release.nb.txt
+    version: 0.1.0
+    pubDate: 2017-08-15T14:12:38.623Z
+    filePath: MacDivvun-0.1.0.dmg
+    fileSize: 3434901
+    signature: MCwCFBjAF0krrmmRaWcLdQCfVfwkHcJWAhRyCxWfMZ8Ge7qBeqFPtUzEa0R29A==
